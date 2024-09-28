@@ -5,4 +5,4 @@
 1. Github Codespace
 2. Terraform
 3. Linux
-4. Docker:
+4. Docker
